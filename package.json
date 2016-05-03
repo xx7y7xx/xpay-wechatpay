@@ -1,0 +1,21 @@
+{
+  "name": "xpay-wechatpay",
+  "description": "xpay-wechatpay",
+  "version": "0.0.1",
+  "author": {
+    "name": "Devin Chen",
+    "email": "d3vin.chen@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xxd3vin/xpay-wechatpay.git"
+  },
+  "scripts": {
+    "test": "vows --spec"
+  },
+  "main": "./index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "vows": "0.6.x"
+  }
+}
