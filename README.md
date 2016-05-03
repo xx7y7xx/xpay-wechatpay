@@ -1,4 +1,4 @@
-# xpay-wechatpay
+# xpay-wechatpay [![Build Status](https://travis-ci.org/xxd3vin/xpay-wechatpay.svg?branch=master)](https://travis-ci.org/xxd3vin/xpay-wechatpay)
 
 ## Usage
 
